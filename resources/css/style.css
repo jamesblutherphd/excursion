@@ -1,0 +1,36 @@
+html {font-family: Verdana;
+
+      background-color: Black;
+      text-align: center;
+
+}
+h1{text-align: center;
+  font-size: 50px;
+  color: White;
+
+}
+h2{text-align: center;
+  font-size: 42px;
+  font-weight: 300;
+  color: White;
+}
+.links {
+color: aquamarine;
+text-align: center;
+font-size: 16px;
+text-decoration: underline;
+
+
+}
+.subtitle {
+  text-align: center;
+    font-size: 21px;
+    color: Gray;
+
+}
+.footer {
+  text-align: right;
+  font-size: 16px;
+  color:gray;
+
+}
